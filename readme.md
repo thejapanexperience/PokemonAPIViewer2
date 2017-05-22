@@ -1,6 +1,3 @@
-# React Webpack Starter Kit
+# POKEAPI Viewer
 
-To begin:
-
-* First, run `npm install` to install required dependencies.
-* Then, to begin webpack-dev-server, run `npm run serve`.  This will execute the 'serve' script in the package.json file.
+Check it out <a href="https://thejapanexperience.github.io/PokemonAPIViewer2/">here</a>.

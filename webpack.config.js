@@ -4,7 +4,7 @@ module.exports = {
   debug: true,
   devtool: 'inline-source-map',
   entry: [
-    'bootstrap-loader',
+    // 'bootstrap-loader',
     './src/css/style.css',
     './src/index.js',
   ],
